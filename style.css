@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	padding:0;
+	width:100%;
+}
+table{
+	height:100%;
+	width:100%;
+	border-collapse:collapse;
+}
+th{
+	width:50%;
+	height:5%;
+}
+.one th:first-of-type{
+	background-color:red;	
+}
+.one th:last-of-type{
+	background-color:blue;
+}
+.two th:first-of-type{
+	background-color:green;
+}
+.two th:last-of-type{
+	background-color:yellow;
+}
+h1{
+	font-weight:auto;
+}

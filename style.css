@@ -10,7 +10,7 @@ table{
 }
 th{
 	width:50%;
-	height:5%;
+	height:50%;
 }
 .one th:first-of-type{
 	background-color:red;	
